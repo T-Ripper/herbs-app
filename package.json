@@ -1,0 +1,19 @@
+{
+  "name": "herbs",
+  "version": "1.0.0",
+  "description": "herbs app",
+  "main": "index.js",
+  "scripts": {
+    "test": "server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T-Ripper/herbs-app.git"
+  },
+  "author": "Joseph",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/T-Ripper/herbs-app/issues"
+  },
+  "homepage": "https://github.com/T-Ripper/herbs-app#readme"
+}
